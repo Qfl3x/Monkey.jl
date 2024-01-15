@@ -1,0 +1,13 @@
+name = "interpreter"
+uuid = "f649c628-9c41-43b0-9afa-8f8f3e30b4ef"
+authors = ["qfl3x <qfl3x@protonmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
