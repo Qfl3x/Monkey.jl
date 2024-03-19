@@ -3,6 +3,10 @@ uuid = "f649c628-9c41-43b0-9afa-8f8f3e30b4ef"
 authors = ["qfl3x <qfl3x@protonmail.com> and contributors"]
 version = "1.0.0-DEV"
 
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Bits = "1654ce90-6ed3-553a-957f-9452c3a40996"
+
 [compat]
 julia = "1"
 
